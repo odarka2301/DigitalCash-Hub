@@ -1,0 +1,25 @@
+JAK URUCHOMIĆ TO OPROGRAMOWANIE
+
+1. Upewnij się, że masz zainstalowany program Visual Studio 2022
+2. Rozpakuj DigitalCashHub jako folder
+3. Kliknij dwukrotnie folder DigitalCashHub, aby otworzyć jego zawartość.
+4. Kliknij dwukrotnie plik rozwiązania o nazwie DigitalCashHub, ten z liczbą 10 dołączoną do ikony obok
+
+Aby uruchomić program
+
+1. Przejdź do Solution Explorer rozwiązań i poszukaj CustLogin.aspx, kliknij go prawym przyciskiem myszy.
+2. W przypadku administratora przejdź do eksploratora rozwiązań i poszukaj pliku login.aspx, kliknij go prawym przyciskiem myszy.
+3. W wyświetlonym menu podręcznym kliknij opcję View in Browser, aby uruchomić witrynę.
+
+Baza danych znajduje się pod adresem: DigitalCashHub\DigitalCashHub\App_Data
+
+Dane logowania ADMIN
+
+Username: admin@demo.com
+Password: admin
+
+Demo Customer's Login
+Username: alex@demo.com
+Password: alex123
+
+Goodluck!!!
